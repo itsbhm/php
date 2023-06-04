@@ -15,13 +15,15 @@ Overall, PHP is a popular choice for web development due to its simplicity, flex
 
 ## 2. Installation and Setup
 
+### Local (Dev) Server:
+
 - For mac Install [Mamp](https://www.mamp.info/en/)
 - For Windows Install [WAMP](https://www.wampserver.com/en/) OR [XAMPP](https://www.apachefriends.org/)
 - For Ubuntu Linux Install [XAMPP](https://www.apachefriends.org/)
 
 To test the PHP installation, open a web browser and navigate to [http://localhost/](http://localhost/). If PHP is working correctly, you should see the welcome page.
 
-For Editors:
+### Code Editors:
 
 You can use various of IDE as per your comfort. (Some perfect IDEs)
 
