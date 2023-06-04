@@ -20,3 +20,15 @@ Overall, PHP is a popular choice for web development due to its simplicity, flex
 - For Ubuntu Linux Install [XAMPP](https://www.apachefriends.org/)
 
 To test the PHP installation, open a web browser and navigate to [http://localhost/](http://localhost/). If PHP is working correctly, you should see the welcome page.
+
+For Editors:
+
+You can use various of IDE as per your comfort. (Some perfect IDEs)
+
+1. VS Code
+2. Sublime Text
+3. Notepad ++
+4. PhpStorm
+5. NetBeans
+6. Eclipse
+7. Zend Studio
