@@ -2,7 +2,7 @@
 
 In PHP, an array is a data structure that allows you to store multiple values in a single variable. It is a way to group related data together. Here's an example of how to create and use arrays in PHP:
 
-> Ref: index.php
+> Ref: [index.php](https://github.com/itsbhm/php/blob/master/php-core/arrays/index.php)
 
 In PHP, there are several types of arrays you can work with. Here are the main types of arrays:
 
