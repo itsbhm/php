@@ -34,3 +34,7 @@ You can use various of IDE as per your comfort. (Some perfect IDEs)
 5. NetBeans
 6. Eclipse
 7. Zend Studio
+
+## 3. Variables
+
+> **Note:** Please refer **variable/** dir.
