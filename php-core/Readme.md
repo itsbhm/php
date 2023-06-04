@@ -39,6 +39,6 @@ You can use various of IDE as per your comfort. (Some perfect IDEs)
 
 > **Note:** Please refer **[variable/](https://github.com/itsbhm/php/tree/master/php-core/variable)** dir.
 
-## 3. Arrays
+## 4. Arrays
 
 > **Note:** Please refer **[arrays/](https://github.com/itsbhm/php/tree/master/php-core/arrays)** dir.
