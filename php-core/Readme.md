@@ -37,8 +37,8 @@ You can use various of IDE as per your comfort. (Some perfect IDEs)
 
 ## 3. Variables
 
-> **Note:** Please refer **variable/** dir.
+> **Note:** Please refer **[variable/](https://github.com/itsbhm/php/tree/master/php-core/variable)** dir.
 
 ## 3. Arrays
 
-> **Note:** Please refer **arrays/** dir.
+> **Note:** Please refer **[arrays/](https://github.com/itsbhm/php/tree/master/php-core/arrays)** dir.
