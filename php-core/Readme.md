@@ -12,3 +12,7 @@ PHP offers a range of functionalities that are useful for web development, such 
 One of the key advantages of PHP is its ease of use and versatility. It has a simple and readable syntax that is similar to C and Perl, making it accessible for beginners while also providing advanced features for more experienced developers. PHP is supported by a large and active community, which contributes to its extensive library of pre-built functions and frameworks, enabling developers to build web applications quickly.
 
 Overall, PHP is a popular choice for web development due to its simplicity, flexibility, and extensive community support. It powers a significant portion of websites on the internet, ranging from small personal blogs to large-scale e-commerce platforms.
+
+## 2. Installation and Setup
+
+For mac Install [Mamp](https://www.mamp.info/en/)
