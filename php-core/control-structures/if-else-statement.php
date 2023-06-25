@@ -10,7 +10,7 @@ if (condition) {
 
 $st = true;
 
-if (condition) {
+if ($st) {
     echo "IF Block is executing";
 } else {
     echo "ELSE Block is executing";
