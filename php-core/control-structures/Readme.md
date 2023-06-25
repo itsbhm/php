@@ -24,3 +24,18 @@ if (condition) {
 ```
 
 > Refer [if-else-statement.php](https://github.com/itsbhm/php/blob/master/php-core/control-structures/if-else-statement.php) for code blocks.
+
+
+3. **if-elseif-else statementt:** It allows you to test multiple conditions and execute different blocks of code based on the first condition that evaluates to true.
+
+```php
+if (condition1) {
+    // Code to be executed if condition1 is true
+} elseif (condition2) {
+    // Code to be executed if condition1 is false and condition2 is true
+} else {
+    // Code to be executed if both condition1 and condition2 are false
+}
+```
+
+> Refer [if-elseif-else-statement.php](https://github.com/itsbhm/php/blob/master/php-core/control-structures/if-elseif-else-statement.php) for code blocks.
