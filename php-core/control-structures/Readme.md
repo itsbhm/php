@@ -11,3 +11,16 @@ if (condition) {
 ```
 
 > Refer [if-statement.php](https://github.com/itsbhm/php/blob/master/php-core/control-structures/if-statement.php) for code blocks.
+
+
+2. **if-else statement:** It allows you to execute one block of code if a condition is true and another block of code if the condition is false.
+
+```php
+if (condition) {
+    // Code to be executed if the condition is true
+} else {
+    // Code to be executed if the condition is false
+}
+```
+
+> Refer [if-else-statement.php](https://github.com/itsbhm/php/blob/master/php-core/control-structures/if-else-statement.php) for code blocks.
