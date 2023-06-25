@@ -42,3 +42,7 @@ You can use various of IDE as per your comfort. (Some perfect IDEs)
 ## 4. Arrays
 
 > **Note:** Please refer **[arrays/](https://github.com/itsbhm/php/tree/master/php-core/arrays)** dir.
+
+## 5. Control Structures
+
+> **Note:** Please refer **[control-structures/](https://github.com/itsbhm/php/tree/master/php-core/control-structure)** dir.
