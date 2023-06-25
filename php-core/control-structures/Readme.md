@@ -9,3 +9,5 @@ if (condition) {
     // Code to be executed if the condition is true
 }
 ```
+
+> Refer [if-statement.php](https://github.com/itsbhm/php/blob/master/php-core/control-structures/if-statement.php) for codes
