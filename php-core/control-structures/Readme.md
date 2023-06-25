@@ -26,7 +26,7 @@ if (condition) {
 > Refer [if-else-statement.php](https://github.com/itsbhm/php/blob/master/php-core/control-structures/if-else-statement.php) for code blocks.
 
 
-3. **if-elseif-else statementt:** It allows you to test multiple conditions and execute different blocks of code based on the first condition that evaluates to true.
+3. **if-elseif-else statement:** It allows you to test multiple conditions and execute different blocks of code based on the first condition that evaluates to true.
 
 ```php
 if (condition1) {
