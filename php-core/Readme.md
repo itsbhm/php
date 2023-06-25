@@ -45,4 +45,4 @@ You can use various of IDE as per your comfort. (Some perfect IDEs)
 
 ## 5. Control Structures
 
-> **Note:** Please refer **[control-structures/](https://github.com/itsbhm/php/tree/master/php-core/control-structure)** dir.
+> **Note:** Please refer **[control-structures/](https://github.com/itsbhm/php/tree/master/php-core/control-structures)** dir.
